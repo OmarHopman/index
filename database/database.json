@@ -1,66 +1,66 @@
 [
-     {
-          "ID": "1",
-          "Name": "Among Us",
-	  "Description": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!",
-          "Infohash": "389A562850F81BDC24AA9B62C96326E44E1E71CF",
-          "LVersion": "v2022.3.29s",
-          "MD5": "4be25b62c0a1eb2ae43bdc0518cc2eb7",
-          "Filename": "Among us.exe",
-          "Images": {
-               "Icon": "",
-               "Banner": [
-                    "",
-                    ""
-               ]
-          }
-     },
-     {
-          "ID": "2",
-          "Name": "Phasmophobia",
-	  "Description": "Phasmophobia is a 4 player online co-op psychological horror where you and your team members of paranormal investigators will enter haunted locations filled with paranormal activity and gather as much evidence of the paranormal as you can. You will use your ghost hunting equipment to search for and record evidence of whatever ghost is haunting the location to sell onto a ghost removal team.",
-          "Infohash": "85c8424638631028dcfb1cec24f35ec04691e531",
-          "LVersion": "v0.6.2.0",
-          "MD5": "894c1603f02f11ea28031d7c83c709a3",
-          "Filename": "Phasmophobia.exe",
-          "Images": {
-               "Icon": "",
-               "Banner": [
-                    "https://wallpapercave.com/wp/wp7775332.jpg",
-                    "https://pbs.twimg.com/media/EnCWoo5XMAANvkI.jpg"
-               ]
-          }
-     },
-     {
-          "ID": "3",
-          "Name": "Astroneer",
-	  "Description": "Explore and reshape distant worlds! Astroneer is set during the 25th century Intergalactic Age of Discovery, where Astroneers explore the frontiers of outer space, risking their lives in harsh environments to unearth rare discoveries and unlock the mysteries of the universe.",
-          "Infohash": "",
-          "LVersion": "",
-          "MD5": "",
-          "Filename": "Astroneer.exe",
-          "Images": {
-               "Icon": "",
-               "Banner": [
-                    "https://images7.alphacoders.com/784/784912.jpg",
-                    "https://images7.alphacoders.com/784/thumb-1920-784913.png"
-               ]
-          }
-     },
-     {
-          "ID": "4",
-          "Name": "Grand Theft Auto V",
-	  "Description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
-          "Infohash": "",
-          "LVersion": "",
-          "MD5": "",
-          "Filename": "GTAV.exe",
-          "Images": {
-               "Icon": "",
-               "Banner": [
-                    "https://i.pinimg.com/originals/b5/4a/45/b54a459c4858f4cdf1d85283e15186f7.png",
-                    "https://s.yimg.com/os/creatr-uploaded-images/2022-02/b8031cb0-85d6-11ec-affe-4f8f48153663"
-               ]
-          }
-     }
+  {
+    "ID": "1",
+    "Name": "Among Us",
+    "Description": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!",
+    "Infohash": "389A562850F81BDC24AA9B62C96326E44E1E71CF",
+    "LVersion": "v2022.3.29s",
+    "MD5": "4be25b62c0a1eb2ae43bdc0518cc2eb7",
+    "Filename": "Among us.exe",
+    "Images": {
+      "Icon": "",
+      "Banners": {
+        "B1": "",
+        "B2": ""
+      }
+    }
+  },
+  {
+    "ID": "2",
+    "Name": "Phasmophobia",
+    "Description": "Phasmophobia is a 4 player online co-op psychological horror where you and your team members of paranormal investigators will enter haunted locations filled with paranormal activity and gather as much evidence of the paranormal as you can. You will use your ghost hunting equipment to search for and record evidence of whatever ghost is haunting the location to sell onto a ghost removal team.",
+    "Infohash": "85c8424638631028dcfb1cec24f35ec04691e531",
+    "LVersion": "v0.6.2.0",
+    "MD5": "894c1603f02f11ea28031d7c83c709a3",
+    "Filename": "Phasmophobia.exe",
+    "Images": {
+      "Icon": "",
+      "Banners": {
+        "B1": "https://wallpapercave.com/wp/wp7775332.jpg",
+        "B2": "https://pbs.twimg.com/media/EnCWoo5XMAANvkI.jpg"
+      }
+    }
+  },
+  {
+    "ID": "3",
+    "Name": "Astroneer",
+    "Description": "Explore and reshape distant worlds! Astroneer is set during the 25th century Intergalactic Age of Discovery, where Astroneers explore the frontiers of outer space, risking their lives in harsh environments to unearth rare discoveries and unlock the mysteries of the universe.",
+    "Infohash": "",
+    "LVersion": "",
+    "MD5": "",
+    "Filename": "Astroneer.exe",
+    "Images": {
+      "Icon": "",
+      "Banners": {
+        "B1": "https://images7.alphacoders.com/784/784912.jpg",
+        "B2": "https://images7.alphacoders.com/784/thumb-1920-784913.png"
+      }
+    }
+  },
+  {
+    "ID": "4",
+    "Name": "Grand Theft Auto V",
+    "Description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+    "Infohash": "",
+    "LVersion": "",
+    "MD5": "",
+    "Filename": "GTAV.exe",
+    "Images": {
+      "Icon": "",
+      "Banners": {
+        "B1": "https://i.pinimg.com/originals/b5/4a/45/b54a459c4858f4cdf1d85283e15186f7.png",
+        "B2": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/b8031cb0-85d6-11ec-affe-4f8f48153663"
+      }
+    }
+  }
 ]
