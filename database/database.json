@@ -9,9 +9,12 @@
     "Filename": "Among us.exe",
     "Images": {
       "Icon": "",
+      "IconF": "",
       "Banners": {
         "B1": "",
-        "B2": ""
+        "B1F": "",
+        "B2": "",
+        "B2F": ""
       }
     }
   },
@@ -25,9 +28,12 @@
     "Filename": "Phasmophobia.exe",
     "Images": {
       "Icon": "",
+      "IconF": "",
       "Banners": {
         "B1": "https://wallpapercave.com/wp/wp7775332.jpg",
-        "B2": "https://pbs.twimg.com/media/EnCWoo5XMAANvkI.jpg"
+        "B1F": "jpg",
+        "B2": "https://pbs.twimg.com/media/EnCWoo5XMAANvkI.jpg",
+        "B2F": "jpg",
       }
     }
   },
@@ -41,9 +47,12 @@
     "Filename": "Astroneer.exe",
     "Images": {
       "Icon": "",
+      "IconF": "",
       "Banners": {
         "B1": "https://images7.alphacoders.com/784/784912.jpg",
+        "B1F": "jpg",
         "B2": "https://images7.alphacoders.com/784/thumb-1920-784913.png"
+        "B2F": "png",
       }
     }
   },
@@ -57,9 +66,12 @@
     "Filename": "GTAV.exe",
     "Images": {
       "Icon": "",
+      "IconF": "",
       "Banners": {
         "B1": "https://i.pinimg.com/originals/b5/4a/45/b54a459c4858f4cdf1d85283e15186f7.png",
-        "B2": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/b8031cb0-85d6-11ec-affe-4f8f48153663"
+        "B1F": "png",
+        "B2": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/b8031cb0-85d6-11ec-affe-4f8f48153663",
+        "B1F": "png"
       }
     }
   }
