@@ -8,13 +8,13 @@
     "MD5": "4be25b62c0a1eb2ae43bdc0518cc2eb7",
     "Filename": "Among us.exe",
     "Images": {
-      "Icon": "",
-      "IconF": "",
+      "Icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/af5d5ef24881f3c3049a7b9bfe74d58b/32/256x256.png",
+      "IconF": "png",
       "Banners": {
-        "B1": "",
-        "B1F": "",
-        "B2": "",
-        "B2F": ""
+        "B1": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/4afa2aea8aa76eddf65a3b2c12a8f5f6.jpg",
+        "B1F": "jpg",
+        "B2": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/4ce000edd5012969a87a83d06ea8f914.jpg",
+        "B2F": "jpg"
       }
     }
   },
@@ -27,8 +27,8 @@
     "MD5": "894c1603f02f11ea28031d7c83c709a3",
     "Filename": "Phasmophobia.exe",
     "Images": {
-      "Icon": "",
-      "IconF": "",
+      "Icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/1b742ae215adf18b75449c6e272fd92d/32/1024x1024.png",
+      "IconF": "png",
       "Banners": {
         "B1": "https://wallpapercave.com/wp/wp7775332.jpg",
         "B1F": "jpg",
@@ -46,8 +46,8 @@
     "MD5": "",
     "Filename": "Astroneer.exe",
     "Images": {
-      "Icon": "",
-      "IconF": "",
+      "Icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/4a533591763dfa743a13affab1a85793/32/256x256.png",
+      "IconF": "png",
       "Banners": {
         "B1": "https://images7.alphacoders.com/784/784912.jpg",
         "B1F": "jpg",
@@ -65,8 +65,8 @@
     "MD5": "",
     "Filename": "GTAV.exe",
     "Images": {
-      "Icon": "",
-      "IconF": "",
+      "Icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/84ddfb34126fc3a48ee38d7044e87276/32/256x256.png",
+      "IconF": "png",
       "Banners": {
         "B1": "https://i.pinimg.com/originals/b5/4a/45/b54a459c4858f4cdf1d85283e15186f7.png",
         "B1F": "png",
